@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color:#ACA7A6; 
+}             
+
+ div{
+    height: 100px;
+    width: 500px;
+    border: 2px solid black;
+    margin: auto;
+    text-align: center;
+    
+    margin-top: 10px;
+ }
+ 
+ #btn1,#btn2{
+ cursor: pointer;
+ padding: 10px 20px;
+ border: 1px solid black;
+ border-radius: 50px;
+ background-color:white;
+ color:black;
+}
+
+#btn2:hover{
+    background-color: black;
+    color: white;
+}
+
+#btn1:hover{
+    background-color: black;
+    color: white;
+}
+
+#result2{
+    background-size: cover;
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 50px;
+}
+
+
+
